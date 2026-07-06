@@ -1,4 +1,4 @@
-![Screenshot of the Landing Page](screenshot.png)
+![Screenshot of the Landing Page](Screenshot.png)
 
 
 🚀 ResumeFlow —
