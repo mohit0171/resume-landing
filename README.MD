@@ -1,5 +1,5 @@
 ![Screenshot of the Landing Page](Screenshot.png)
-
+It is a AI resume builder website.
 
 🚀 ResumeFlow —
 The AI-Powered Resume Builder Landing PageA hyper-clean, dark-themed, conversion-focused landing page for ResumeFlow—a next-generation AI resume builder. This project is a masterclass in modern semantic layouts, proving that you don't need massive frameworks or endless nested layouts to build a stunning, interactive user experience. 
